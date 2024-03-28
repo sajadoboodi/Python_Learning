@@ -13,5 +13,5 @@ result = re.findall(r'a*',str)
 print(result.count('a') + result.count(''))
 
 str = 'This is an advanced Python programming in School.'
-result = re.sub(r'maktabkhooneh','university',str)
+result = re.sub(r'School','university',str)
 print(result)

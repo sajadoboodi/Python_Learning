@@ -1,0 +1,3 @@
+This is a new file created using Python.
+You can write multiple lines into it.
+This is an additional line added to the file.

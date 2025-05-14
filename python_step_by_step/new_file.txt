@@ -1,0 +1,3 @@
+This is a new file created from a Jupyter notebook.
+I hope works!
+# This file is created using the %%writefile magic command in Jupyter Notebook 
